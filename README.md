@@ -9,8 +9,11 @@
 - fdsfsd
 - fdsfds
 - fsdf
+![x]()
 
-![x](https://github.com/user-attachments/assets/b96a8a4f-77db-4c78-adf7-4a288125d39d)
+<img src="https://github.com/user-attachments/assets/07caa5b5-d62e-4fd8-ad8d-963cfd194229" alt="Sample Image" width="400" height="300">
+
+
 
 
 Que rollo
